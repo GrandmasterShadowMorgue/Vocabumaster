@@ -1,2 +1,2 @@
 # Vocabumaster
-How good is your mastery over English?
+Challenge and expand your vocabulary!
